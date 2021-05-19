@@ -1,5 +1,5 @@
 # Object-Observe
-Solution to hands-on candidate test. </t>
+Solution to hands-on candidate test. 
 print objects and structs like: 
 Object of Class "Person" 
     ------------------
